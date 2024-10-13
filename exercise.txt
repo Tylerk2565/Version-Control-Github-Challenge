@@ -1,0 +1,8 @@
+1. A terminal is an app that helps you communicate with the computer using commands.
+
+
+2. The major difference between Github and Git is that Github is the website that allows you to post code publicly and git is the software that allows you to upload/post the code. 
+
+
+
+3. The best way to fork a repository would be to use the fork button located when you click on your repository.
